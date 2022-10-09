@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178016392484",
+    "project_id": "stripe-payments-604b1",
+    "storage_bucket": "stripe-payments-604b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178016392484:android:3e48904677f37694ab8fb1",
+        "android_client_info": {
+          "package_name": "com.drapps.stripepayments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178016392484-8hq3f10un6pcqd03ugldg0c2gelhjssj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-tew3Q8X6HQofVGtnQaw0eeWRDQEp2eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178016392484-8hq3f10un6pcqd03ugldg0c2gelhjssj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
